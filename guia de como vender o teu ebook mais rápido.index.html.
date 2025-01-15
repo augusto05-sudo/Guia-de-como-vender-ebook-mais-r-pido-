@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Descubra como vender seus ebooks mais rápido com estratégias práticas e comprovadas. Transforme conhecimento em lucro agora mesmo!">
+    <title>Guia: Venda seus Ebooks Mais Rápido</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5rem;
+            color: #007BFF;
+        }
+        p {
+            font-size: 1.2rem;
+            margin: 1rem 0;
+            line-height: 1.6;
+        }
+        .cta-button {
+            display: inline-block;
+            margin-top: 1.5rem;
+            padding: 1rem 2rem;
+            font-size: 1.2rem;
+            color: #fff;
+            background-color: #007BFF;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .cta-button:hover {
+            background-color: #0056b3;
+        }
+        .image {
+            margin: 1.5rem 0;
+        }
+        .image img {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+        footer {
+            margin-top: 2rem;
+            font-size: 0.9rem;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Venda seus Ebooks Mais Rápido!</h1>
+        <p>Você criou um ebook incrível, mas está tendo dificuldades para vender? Este guia foi feito para você!</p>
+        <p>Aprenda estratégias práticas e comprovadas para vender mais ebooks em menos tempo. Transforme seu conhecimento em lucro agora mesmo!</p>
+        <div class="image">
+            <img src="https://via.placeholder.com/800x400?text=Guia+de+Como+Vender+Ebook+Mais+Rápido" alt="Guia de Como Vender Ebook Mais Rápido">
+        </div>
+        <a href="https://pay.kuenha.com/cff9776c-858d-4fcc-9635-69939dc5e00d?p=046c2fa4-06a7-4ea1-8839-4aabc95e79ab" class="cta-button" target="_blank">Acesse o Guia Agora</a>
+    </div>
+    <footer>
+        © 2025 Guia de Como Vender Ebook Mais Rápido. Todos os direitos reservados.
+    </footer>
+</body>
+</html>
